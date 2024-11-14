@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -35,7 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
+
 ### Technology
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white)
@@ -54,4 +53,3 @@ Note App adalah aplikasi sederhana dan intuitif yang dirancang untuk membantu pe
 - Notifikasi dan Pengingat: Setel pengingat untuk catatan penting sehingga Anda tidak melewatkan tugas atau informasi yang krusial.
 - Backup dan Sinkronisasi: Dukungan untuk backup catatan secara berkala dan sinkronisasi antar perangkat sehingga data Anda aman dan dapat diakses dari mana saja.
 - Antarmuka yang Ramah Pengguna: Desain aplikasi yang intuitif dan responsif, memastikan pengalaman pengguna yang menyenangkan dan tanpa frustasi.
->>>>>>> da16dd93c5f20dd747694c30266d3ba34fd83b93
